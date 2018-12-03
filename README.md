@@ -7,7 +7,7 @@ Just copy the script in a section above Main (right where RPG Maker suggests you
 # Using the script:
 The system makes use of two variables which you can easily modify in the script itself.
 You get to write on a game variable (one _actual_ game variable) the info you want to pass.
-It can be anything! If you want to keep the Undertale idea as an example, it could contain a value 0-100 on how good-to-bad you've been in the previous savefile.
+It can be anything! If you want to keep the Undertale idea as an example, it could contain a value 0-100 on your alignment in the previous savefile.
 Once you proceed to play a New Game, the game will read the variable from the latest savefile you have in the folder and will store it into another variable.
 
 This way you can make a game "remember" some previous data.
